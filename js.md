@@ -8,3 +8,5 @@
 - Object.assign
 - глубокое клонирование объекта
   https://learn.javascript.ru/object#copying-by-reference
+  
+- Object.freeze
